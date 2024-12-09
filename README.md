@@ -1,5 +1,5 @@
 
-# COVID-19 Trends Analysis and Prediction (Big Data Project)
+# COVID-19 Trends Analysis and Prediction
 
 This repository contains a Jupyter notebook that analyzes and predicts trends in vaccination intent, vaccination rates, and side effect interest. It is designed as a **big data project**, leveraging **Google BigQuery** for scalable data storage and query capabilities, and **PySpark** for distributed data processing and machine learning. The notebook utilizes a public BigQuery dataset related to COVID-19.
 

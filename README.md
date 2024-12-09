@@ -38,7 +38,7 @@ You will also need to:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd covid19-trends-analysis
+   cd learning-analytics
    ```
 3. Open the Jupyter Notebook:
    ```bash

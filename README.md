@@ -34,7 +34,7 @@ You will also need to:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/covid19-trends-analysis.git
+   git clone https://github.com/CasapuIoana/learning-analytics.git
    ```
 2. Navigate to the project directory:
    ```bash
